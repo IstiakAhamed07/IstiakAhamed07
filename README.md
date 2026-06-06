@@ -1,5 +1,6 @@
 ## Hi there 👋
 I am Istiak Ahamed
+I am a student of CSE in SOutheast University 
 
 <!--
 **IstiakAhamed07/IstiakAhamed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
